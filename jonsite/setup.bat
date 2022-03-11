@@ -1,0 +1,1 @@
+set PYTHONPATH=C:\users\jonat\AppData\Local\Programs\Python\Python310\lib\site-packages
